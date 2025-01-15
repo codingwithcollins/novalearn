@@ -1,6 +1,3 @@
-Here’s a concise and professional description for your Novalearn project on GitHub:
-
----
 
 ### NovaLearn - Empowering Education Through Innovation 🌟
 
