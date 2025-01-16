@@ -16,7 +16,7 @@ NovaLearn is an innovative e-learning platform designed to revolutionize the way
 - **Database**: MySQL for efficient data management
 
 #### Get Started:
-- Clone the repository: `git clone https://github.com/yourusername/novalearn.git`
+- Clone the repository: `git clone https://github.com/codingwithcollins/novalearn.git`
 - Follow the [Setup Guide](#setup) for detailed installation instructions.
 
 #### Contributing:
